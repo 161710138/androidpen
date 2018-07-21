@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/b"
+    tools:context=".MainActivity$PlaceholderFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:paddingBottom="5dp"
+        tools:ignore="RtlCompat">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:gravity="center"
+            android:text="Aspek Seni Beladiri Pencak Silat"
+            android:textColor="#000"
+            android:textSize="20dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="a.   Mental spiritual"
+            android:textColor="#000"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Pencak silat membangun dan mengembangkan kepribadian dan karakter mulia seseorang."
+            android:textColor="#000"
+            android:textSize="15dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="b.   Seni budaya"
+            android:textColor="#000"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Budaya dan permainan seni pencak silat merupakan salah satu aspek yang sangat penting. Istilah pencak pada umumnya menggambarkan bentuk seni tarian pencak silat dengan musik dan busana tradisional"
+            android:textColor="#000"
+            android:textSize="15dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="c.   Kepercayaan"
+            android:textColor="#000"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Kepercayaan dan ketekunan diri sangat penting dalam menguasai ilmu beladiri pencak silat. Istilah silat, cenderung menekankan pada aspek kemampuan teknis beladiri pencak silat.
+"
+            android:textColor="#000"
+            android:textSize="15dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="d.   Olahraga"
+            android:textColor="#000"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="178dp"
+            android:padding="10dp"
+            android:text="Aspek fisik dalam pencak silat sangat penting. Pesilat mencoba menyesuaikan pikiran dengan olah tubuh. Kompetisi merupakan bagian aspek ini. Aspek olahraga meliputi pertandingan dan demonstrasi bentuk-bentuk jurus, baik untuk tunggal, ganda, maupun regu. "
+            android:textColor="#000"
+            android:textSize="15dp" />
+
+
+
+    </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

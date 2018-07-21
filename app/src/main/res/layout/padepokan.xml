@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/b"
+    tools:context=".MainActivity$PlaceholderFragment">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:paddingBottom="5dp"
+        tools:ignore="RtlCompat">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="2dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="54dp"
+                android:gravity="center"
+                android:text="Organisasi Pencak Silat"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/fffq"
+                android:textColor="#000"
+                android:textSize="15dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/fffr"
+                android:textColor="#000"
+                android:textSize="17dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="316dp"
+                android:layout_height="200dp"
+                android:padding="10dp"
+                android:src="@drawable/persilat" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="Persilat (atau Persekutuan Pencak Silat Antarabangsa), yang didirikan di Jakarta pada tanggal 11 Maret 1980, adalah satu-satunya organisasi internasional Pencak Silat di dunia"
+                android:textColor="#000"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/fffv"
+                android:textColor="#000"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="-IPSI (Ikatan Pencak Silat Indonesia)"
+                android:textColor="#000"
+                android:textSize="17dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="316dp"
+                android:layout_height="205dp"
+                android:padding="10dp"
+                android:src="@drawable/ipsi" />
+            <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/fffu"
+            android:textColor="#000"
+            android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="-FP2STI (Forum Pecinta dan Pelestari Silat Tradisional Indonesia)"
+                android:textColor="#000"
+                android:textSize="17dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_width="310dp"
+                android:layout_height="205dp"
+                android:padding="10dp"
+                android:src="@drawable/fsti" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/ffft"
+                android:textColor="#000"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="PESAKA Malaysia (Persekutuan Silat Kebangsaan Malaysia)"
+                android:textColor="#000"
+                android:textStyle="bold"
+                android:textSize="17dp" />
+            <ImageView
+                android:layout_width="310dp"
+                android:layout_height="205dp"
+                android:padding="10dp"
+                android:src="@drawable/pesaka" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/fffw"
+                android:textColor="#000"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="PERSISI (Persekutuan Silat Siungapore)"
+                android:textColor="#000"
+                android:textStyle="bold"
+                android:textSize="17dp" />
+            <ImageView
+                android:layout_width="310dp"
+                android:layout_height="205dp"
+                android:padding="10dp"
+                android:src="@drawable/persisis" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/fffx"
+                android:textColor="#000"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="EPSF (European Pencak Silat Federation)"
+                android:textColor="#000"
+                android:textStyle="bold"
+                android:textSize="17dp" />
+            <ImageView
+                android:layout_width="310dp"
+                android:layout_height="205dp"
+                android:padding="10dp"
+                android:src="@drawable/eropean" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="197dp"
+                android:padding="10dp"
+                android:text="@string/fffy"
+                android:textColor="#000"
+                android:textSize="15dp" />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

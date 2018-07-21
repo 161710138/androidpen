@@ -1,0 +1,223 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Pencak Silat</string>
+    <string name="title_activity_tahapan">TahapanActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_mian">MianActivity</string>
+    <string name="tab1">Teknik Dasar dan Jurus</string>
+    <string name="tab2">Pernafasan</string>
+    <string name="tab3">Tenaga Dalam</string>
+    <string name="tab4">Penggunaan Tenaga Dalam</string>
+
+    <string name="awal"> Dalam Tekhnik Pencat silat terdapat beberapa gerakan yang perlu dikuasai oleh seorang pesilat. Sikap atau gerakan ini meliputi tujuh : Kuda - Kuda, Sikap Pasang, Latihan Langkah Kuda-kuda Silat Menggunakan 8 Arah Mata Angin, Pola Langkah, Pukulan, Tendangan, dan Tangkisan. Berikut ini penjelasannya:</string>
+    <string name="kuda">Kuda-kuda</string>
+
+    <string name="terdiri_dari">Teknik kuda-kuda pada pencak silat terdiri dari enam posisi yaki: kuda-kuda Depan, kuda-kuda Belakang, kuda-kuda Tengah, kuda-kuda Samping, kuda-kuda Silang Depan, dan kuda-kuda Silang Belakang.</string>
+    <string name="kudkud">1. Kuda-Kuda Depan </string>
+    <string name="yyyy">- Kuda-kuda depan dapat dibentuk dengan posisi kaki yang berada di depan ditekuk sedangkan kaki belakang lurus. Sementara itu, telapak kaki belakang serong ke arah luar, berat badan ditumpukan pada kaki depan, badan tegap dan pandangan kedepan. </string>
+    <string name="kudakud">2. Kuda-Kuda Belakang </string>
+    <string name="aaaa"> - Untuk kuda-kuda belakang, dapat dibentuk dengan tumpuan berat badan  pada kaki belakang. Tumit yang dipakai sebagai tumpuan tegak dengan panggul, badan agak condong ke depan, kaki depan di injit dan menapak dengan tumit atau ujung kaki.</string>
+    <string name="bbbb">3. Kuda-Kuda Tengah</string>
+    <string name="cccc">- Dibentuk dengan kedua kaki ditekukan dengan titik berat badan berada ditengah.</string>
+    <string name="dddd">4. Kuda-kuda samping </string>
+    <string name="eeee">- Lakukan Kuda-kuda samping dengan cara satu kaki ditekuk dan kaki yang lain lurus ke samping, berat badan pada kaki yang ditekuk, bahu sejajar atau segaris dengan kaki. </string>
+    <string name="ffff">5. Kuda-Kuda Silang Depan </string>
+    <string name="gggg">- Kuda-kuda silang depan dibentuk dengan menginjakkan satu kaki ke depan atau kebelakang kaki yang lain, berat badan ditumpukan pada satu kaki, sedangkan kaki yang lain disentuhkan pada lantai dengan ibu jari kaki atau ujung jari kaki.</string>
+    <string name="hhhh">6. Kuda-Kuda Silang Belakang </string>
+    <string name="iiii">- Kuda-kuda silang belakang  yaitu kuda-kuda dengan salah satu kaki berada di belakang  dengan keadaan menyilang dan kaki di tumpukan ke belakang, badan tetap lurus agar tidak jatuh saat melakukan  gerakan tersebut.</string>
+    <string name="jjjj">Sikap Pasang</string>
+    <string name="kkkk">Terdapat empat sikap pasang yang ada dalam pencak silat: yakni Pasang satu,Pasang dua, Pasang tiga, dan Pasang empat. Berikut ini penjelasannya. </string>
+    <string name="llll">1. Pasang satu </string>
+    <string name="mmmm">- Pasang satu adalah sikap dengan posisi badan tegak dengan kedua tangan disamping dalam keadaan siap silat dan kedua kaki di buka selebar bahu.</string>
+    <string name="nnnn">2. Pasang dua </string>
+    <string name="oooo">- Pasng dua dibentuk dengan badan tetap pada posisi tegak, kaki dibuka selebar bahu, kedua  tangan mengepal dan sejajar pinggang.</string>
+    <string name="pppp">3. Pasang tiga </string>
+    <string name="qqqq">- Sikap badan sama seperti pasang dua dengan posisi tegak lurus, kaki di buka selebar bahu, tangan diangkat sejajar mata dengan kepalan tangan terbuka.</string>
+    <string name="rrrr">4. Pasang empat</string>
+    <string name="ssss">- Sikap badan, dan mata sama seperti sikap pasang tiga, yang membedakan adalah tangan diangkat sejajar mata dengan posisis silang. Awalnya kepalan tangan terbuka kemudian tangan sudah terkepal.</string>
+    <string name="tttt">Latihan Langkah Kuda-kuda Silat Menggunakan 8 Arah Mata Angin</string>
+    <string name="uuuu">Terdapat delapan gerakan yang dilakukan dalam Latihan Langkah Kuda-kuda Silat Menggunakan 8 Arah Mata Angin, berikut ini penjelasan lengkapnya.</string>
+    <string name="vvvv">• Pada gerakan awal yaitu dimulai dengan gerakkan pertama sampai gerakkan ke empat menggunakan kuda-kuda samping, yaitu kaki kiri di depan kaki kanan di belakang posisi badan dalam keadaan lurus, kaki kiri di depan kaki kanan di belakang posisi dalam keadaan serong kekiri dan begitu juga sebaliknya.</string>
+    <string name="wwww">• Kemudian dilanjutkan dengan gerakan tambahan yaitu gerakkan ke lima sampai gerakkan ke delapan dengan menggunakan kaki dapan di depan dan kaki kiri di belakang keadaan dalam posisi kaki kiri di luruskan dan kaki kanan ditekukkan posisi badan sedikit condong ke depan dan begitu juga sebaliknya
+</string>
+    <string name="xxxx">Pola Langkah</string>
+    <string name="yyyyy">Ada enam pola langkah dalam teknih pencak silat yaitu: Pola langkah lurus, Pola langkah zikzak, Pola langkah ladam atau huruf  U, Pola langkah segi tiga, Pola langkah huruf S, dan Pola langkah segi 4. Berikut ini penjelasannya.</string>
+    <string name="zzzz">1. Pola langkah lurus </string>
+    <string name="abcd">- Merupakan gerak langkah yang membentuk garis lurus ,baik langkah maju maupin langkah mundur. Pelaksanaanya dimulai dari salah satu kuda-kuda (kuda-kuda tengah).</string>
+    <string name="aaab">2. Pola langkah zikzak</string>
+    <string name="aaac">- Merupakan gerak langkah yang membentuk  mata gergaji atau pola zig-zag. Pelaksanaanya dimulai dari sikap pasang dengan pola langkah serong.</string>
+    <string name="aaad">3. Pola langkah ladam atau huruf  U</string>
+    <string name="aaae">- Pelaksanaanya dimulai dari sikap awal tegak, gerakkan kaki kesamping kanan diikuti kaki kiri menutup (merapat), kemudian kaki kiri maju, kaki di tarik kembali dan merapat kemudian digerakan ke samping kiri. Kaki kanan ditarik dirapatkan, kemudian dilangkahkan kedepan. Terakhir kaki kanan ditarik kembali merapat seperti sikap awal.</string>
+    <string name="aaaf">4. Pola langkah segi tiga</string>
+    <string name="aaag">- Pelaksanaanya berdiri di titik 0, geser kaki kanan ke titik 1, diikuti kaki kiri ke titik 2, lanjutkan ke titik  4, lanjutkan juga ke titik 4 dan 5 (berat badan di titik 5). Tarik kaki kanan ke titik 6, kaki kanan ketitik 7 dengan kuda-kuda depan, tarik kaki kanan keposisi awal.</string>
+    <string name="aaah">5. Pola langkah huruf S</string>
+    <string name="aaai">- Berdiri dengan posisi titik menghadap sesui dengan arah yang di tunjukan. Geser kaki kanan ke arah berat badan ke di kaki kanan, dikkuti kaki kiri, kaki kiri ke titik 3 berat badan di kaki kiri selanjutnya cabut kaki kanan lewati kaki kiri sampai di titik 4, kaki kanan yang di titik 4 di titik 5 putar di tempat, sementara kaki kiri yang ada di titik 3 injit, gugus kaki kiri lewat tanda panah dengan jalur titik 6 sampai di titik.</string>
+    <string name="aaaj">6. Pola langkah segi 4</string>
+    <string name="aaak">-  Pelaksanakannya bisa memakai kombinasi kuda-kuda tengah ,samping,dan belakang</string>
+    <string name="aaal">Pukulan</string>
+    <string name="aaam">Terdapat empat pukulan dalam pencak silat ini yaitu Pukulan Lurus, Pukulan Bandul,Pukulan Tegak, dan Pukulan Melingkar.</string>
+    <string name="aaan">1. Pukulan Lurus </string>
+    <string name="aaao">- Pukulan lurus adalah pukulan yang dilakukan dengan salah satu tangan dengan memukul kearah depan, sasaran yaitu dada lawan. Dan tangan satunya lagi menutup arah point, yaitu sasaran perut keatas.</string>
+    <string name="aaap">2. Pukulan Bandul </string>
+    <string name="aaaq">- Pukulan bandul dapat dilakukan dengan mengayunkan salah satu tangan yang dikepal kearah sasaran ulu hati, dan tangan yang satu lagi menutup arah lawan.</string>
+    <string name="aaar">3.Pukulan Tegak </string>
+    <string name="aaas">Pukulan ini sasarannya adalah bahu atau sendi bahu bagian kanan (lawan yang dengan kita yang saling berhadapan, jadi sama saja dengan bahu sebelah kiri yang menjadi sasaran)</string>
+    <string name="aaat">4.Pukulan Melingkar </string>
+    <string name="aaau">- Sasarannya adalah pinggang lawan.</string>
+    <string name="aaav">Tendangan</string>
+    <string name="aaaw">Setidaknya terdapat empat tendangan dalam pencak silat yakni Tendangan lurus kedepan, Tendangan melingkar, Tendangan berbentuk huruf T, dan Tendangan samping.</string>
+    <string name="aaax">1. Tendangan lurus kedepan </string>
+    <string name="aaay">- yaitu tendangan yang dilakukan denganmenghentakan ke depan telapak kaki sejajar dengan bahu.</string>
+    <string name="aaaz">2. Tendangan melingkar </string>
+    <string name="bbba">- yaitu dengan hentakan punggung kaki.</string>
+    <string name="bbbc">3. Tendangan samping </string>
+    <string name="bbbd">- yaitu menendang dengan punggung kaki.</string>
+    <string name="bbbe">4. Tendangan berbentuk huruf T </string>
+    <string name="bbbf">- yaitu dengan tendangan samping yang menggunakan hentakan telapak kaki.</string>
+    <string name="bbbg">Tangkisan</string>
+    <string name="bbbh">
+Tangkisan adalah gerakan menahan serangan lawan dengan menggunakan tangan, kaki, ataupun senjata agar serangan lawan tidak dapat mengenai kita. Terdapat empat teknik tangkisan yang menggunakan tangan dalam pencak silat yakni:
+</string>
+    <string name="bbbi">1. Tangkisan dalam</string>
+    <string name="bbbj"> - Adalah menahan serangan dengan gerakan tangan dari luar ke dalam sejajar dengan </string>
+    <string name="bbbk">2. Tangkisan luar </string>
+    <string name="bbbl">- Adalah menahan serangan dengan gerakan tangan dari dalam ke luar sejajar dengan bahu.</string>
+    <string name="bbbm">3. Tangkisan atas  </string>
+    <string name="bbbn">Adalah menahan serangan dengan gerakan tangan dari bawah ke atas, untuk melindungi kepala dari serangan.</string>
+    <string name="bbbo">4. Tangkisan bawah </string>
+    <string name="bbbp">- Adalah menahan serangan dengan gerakan tangan dari atas kebawah.</string>
+
+    <string name="bbbq">Teknik Pernafasan </string>
+    <string name="bbbr">Setelah kita mempelajari teknik Kuda-Kuda, kali ini kita akan membahas mengenai teknik pernafasan.  Setiap perguruan Pencak Silat memiliki teknik pernafasan yang berbeda-beda, namun jika dilihat dari prinsip dasarnya adalah sama yaitu menggunakan Teknik Pernafasan Dada dan Teknik Pernafasan Perut.</string>
+    <string name="bbbs">1. Teknik Pernafasan Dada</string>
+    <string name="bbbt">Cara melakukannya adalah, pasang kuda-kuda tengah, kedua tangan dikepal dan diletakkan di pinggang. Tarik nafas melalui hidung kemudian tahan nafas di dada dengan cara menggeraskan otot-otot dibagian dada. Buang nafas melalui mulut dengan cara mendesis, tujuan dari mendesis ini adalah untuk menahan agar nafas keluar secara perlahan dan mengeluarkan energi yang ada di dalam tubuh kita.  Pernafasan dada berfungsi untuk mengatur emosi yang ada di dalam diri kita, selain itu pernafasan dada juga digunakan sebagai dasar untuk memecahkan benda keras.</string>
+    <string name="bbbu">2. Teknik Pernafasan Perut</string>
+    <string name="bbbv">Pernafasan ini berbeda dengan pernafasan sebelumnya. Pada pernafasan ini nafas ditekan pada bagian perut, sehingga otot perut mengeras. Cara melakukannya adalah, tarik nafas melalui hidung,tahan nafas di perut dengan menggembungkan perut bagian bawah, sehingga jika ditekan dari depan perut tidak akan mengempes, untuk melepaskan nafas buang nafas melalui mulut dengan cara mendesis seperti pada pernafasan dada.  Pernafasan perut ini sangat penting dikuasai oleh semua pesilat, karena ini adalah pernafasan dasar dari semua pernafasan.</string>
+    <string name="bbbw">Selain 2 pernafasan diatas ada 2 pernafasan lagi yang tinggkatnya diatas Pernafasan Dada dan Pernafasan Perut. (sebelum belajar pernafasan ini, wajib menguasai 2 pernafasan diatas).  Bagi yang sudah menguasai 2 pernafasan diatas, maka untuk menguasai pernafasan di bawah ini tidak terlalu sulit.</string>
+    <string name="bbbx">A. Pernafasan Ulu Hati</string>
+    <string name="bbby">Pernafasan ini sangat penting dikuasai, karena jika kita berhasil mengunci pernafasan ini, semua badan akan terasa kencang dan keras. Pada pernafasan ini nafas dikunci di ulu hati, yaitu daerah antara dada dan perut. Jika kita berhasil mengunci nafas di ulu hati maka secara tidak langsung dada dan perut pun akan ikut mengunci dan terasa keras.</string>
+    <string name="bbbz">B. Pernafasan Dibawah Pusar</string>
+    <string name="ccca">     Pada pernafasan ini nafas dikunci dibawah pusar (kandung kemih). Pernafasan ini berlawanan dengan pernafasan Dada, jika pernafasan dada berguna untuk meningkatkan emosi, maka pernafasan ini bertujuan untuk mengontrol emosi kita. Pada pernafasan ini daerah dibawah pusar ditekan keluar sehingga akan terasa keras. Pernafasan ini banyak manfaatnya seperti meningkatkan energi yang ada di dalam tubuh kita.</string>
+    <string name="cccb">Bagi yang sudah menguasai pernafasan diatas, maka sudah layak untuk masuk ke materi selanjutnya.</string>
+
+    <string name="cccd">Latihan Tahap 3</string>
+    <string name="ccce">Latihan Tenaga Dalam</string>
+    <string name="cccf">Kekuatan tenaga dalam boleh dilontarkan sama, ada dengan sokongan/bantuan fizikal mahupun tanpa sokongan/bantuan fizikal. Melontarkan kekuatan dengan sokongan fizikal, menggunakan suatu perangkat yang disebut Jurus Tenaga Dalam. Dan jika tanpa sokongan fizikal, perangkat yang digunakan ialah apa yang disebut dengan Visualisasi ( = menggambarkan/membayangkan keadaan yang sebenarnya dengan perasaan ).</string>
+    <string name="cccg">Sama ada dengan sokongan fizikal mahupun tanpa sokongan fizikal, kekuatan tenaga dalam hanya boleh dilontarkan/ditunjukkan apabila ada rangsangan ( berupa: serangan yang dilandasi dengan amarah, perasaan benci dan maksud-maksud lain yang bersifat jahat/merosak), yang datang dari luar. Latihan melontarkan kekuatan tenaga dalam yang akan diberikan di dalam seri latihan ini terutama ditekankan pada latihan melontarkan dengan menggunakan perangkat Jurus-jurus tenaga dalam. Kerana selain daripada menyihatkan cara ini juga lebih mudah dan efektif. Sesiapa sahaja yang belajar tenaga dalam mulai dari "kosong" ( sama ada dengan Guru mahupun tanpa Guru), anda disarankan terlebih dahulu mempelajari jurus-jurus tenaga dalam sebelum mempelajari cara-cara Visualisasi. Cara-cara pelontaran tenaga dalam dengan Visualisasi memerlukan Prakondisi yang lebih sukar, dan biasanya hanya boleh dilakukan oleh mereka yang telah menguasai tenaga dalam di tingkat yang lebih tinggi.</string>
+    <string name="ccch">Akan tetapi sebagai latihan (dan berdasarkan pengalaman praktikal, hasilnya ternyata lebih memuaskan), latihan-latihan jurus tenaga dalam yang akan diberikan dalam seri latihan ini sedikit-banyak akan dipadukan dengan penggunaan cara-cara visualisasi. Untuk itu, pelajari terlebih dahulu dasar-dasar pengetahuan berikut.</string>
+    <string name="ccci">A. TEKNIK DASAR MELONTARKAN KEKUATAN TENAGA DALAM</string>
+    <string name="cccj">Teknik dasar melontarkan kekuatan tenaga dalam pada prinsipnya ada tiga jenis, yaitu:</string>
+    <string name="ccck">*Teknik melontarkan kekuatan tenaga dalam dengan menggunakan NAFAS TOLAK/LONTAR.</string>
+    <string name="cccl">*Teknik melontarkan kekuatan tenaga dalam dengan menggunakan NAFAS TARIK/HISAP, dan</string>
+    <string name="cccm">*Teknik melontarkan kekuatan tenaga dalam dengan menggunakan NAFAS TAHAN.</string>
+    <string name="cccn">Ketiga teknik dasar pelontaran tenaga dalam tersebut harus difahami sebelum anda mempelajari jurus-jurus tenaga dalam. Kenapa begitu? Kerana jurus-jurus tenaga dalam pada prinsipnya merupakan penerapan dari ketiga teknik dasar tersebut yang diwujudkan dalam suatu rangkaian gerakan.Kecuali teknik-teknik dasar pelontaran tenaga dalam, anda juga harus mengetahui syarat-syarat ( prakondisi ) yang harus dipenuhi agar teknik-teknik dasar tersebut dapat digunakan untuk melontarkan kekuatan tenaga dalam. Dengan mengetahui pelajaran-pelajaran dasar tersebut, diharapkan para Pelatih tidak hanya melatih gerakan-gerakan jurus tenaga dalam sekadar pelajaran oleh keperluan belakan. Melainkan lebih dari itu, Pelatih dapat merasakan aliran-aliran tenaga/energi yang masuk dan terpancar melalui pernafasan dan gerakan-gerakan.</string>
+    <string name="ccco">Teknik Melontarkan Tenaga Dalam Dengan Nafas Tolak.</string>
+    <string name="cccp">Teknik melontarkan tenaga dalam dengan Nafas Tolak ini dilakukan dengan cara: mengambil nafas melalui hidung dengan lembut dan menghembuskannya ( juga melalui hidung ) dengan keras/kuat. Teknik nafas tolak ini digunakan untuk melakukan serangan dari jarak jauh dan melemparkan lawan ke belakang. Teknik nafas tolak ini bersifat merosak/menghancurkan, apabila digunakan dengan menggunakan jurus-jurus tenaga dalam yang berbahaya boleh menimbulkan luka dalam pada lawan. Apabila digunakan dalam perawatan, teknik nafas tolak ini juga boleh digunakan untuk menghancurkan/membunuh penyakit.</string>
+    <string name="cccq">Teknik Melontarkan Tenaga Dalam Dengan Nafas Tarik.</string>
+    <string name="cccr">Teknik melontarkan tenaga dalam dengan Nafas Tarik ini dilakukan dengan cara : mengambil nafas melalui hidung dengan keras/kuat dan menghembuskannya ( juga melalui hidung ) dengan perlahan-lahan atau lembut. Teknik nafas tarik ini digunakan untuk menarik lawan atau objek sehingga lawan atau objek tersebut bergerak ke arah kita tanpa kendali/kontrol. Di dalam praktik perawatan, teknik ini digunakan untuk menyedut penyakit (: energi penyakit yang bersifat merosak ) dari dalam tubuh orang yang sakit. Teknik ini biasanya digunakan setelah penyakit si pesakit dihancurkan dengan menggunakan teknik nafas tolak ( penyakit dihancurkan terlebih dahulu ).</string>
+    <string name="cccs">Teknik Melontarkan Tenaga Dalam Dengan Nafas Tahan.</string>
+    <string name="ccct">Teknik melontarkan tenaga dalam dengan Nafas Tahan ini dilakukan dengan cara : menarik/mengambil nafas melalui hidung dengan keras/kuat kemudian menahannya pada pusat getar ( di perut atau dada ) dengan mengeraskan pusat getar tersebut. Teknik nafas tahan ini digunakan untuk membentuk perisai/benteng di sekeliling tubuh, sehingga serangan yang dilancarkan oleh lawan tidak akan sampai pada sasaran. Teknik nafas tahan ini bersifat defensif dan akan memberi kesan kekebalan pada tubuh. Serangan lawan yang dilancarkan tanpa emosi dan mengenai tubuh kita, harus kita hadapi dengan menggunakan teknik nafas tahan ini sehingga tidak menimbulkan rasa sakit.</string>
+    <string name="cccu">Ketiga teknik dasar pelontaran tenaga dalam tersebut hanya boleh dilakukan secara baik apabila telah memenuhi syarat-syarat tertentu. Ada dua syarat yang harus dipenuhi agar ketiga teknik tersebut dapat diterapkan secara baik, iaitu : syarat utama dan syarat penunjang.</string>
+    <string name="cccv">Syarat-syarat Utama :</string>
+    <string name="cccw">1. Pemusatan Tenaga ( KONSENTRASI ). Kekuatan tenaga dalam hanya boleh kita lontarkan apabila kita dapat memusatkan tenaga yang akan kita lontarkan itu pada pusat getar, kemudian bergerak dan terpancar melalui saluran-saluran yang tersedia, misalnya telapak tangan, jari-jari tangan dan lain-lain. Tanpa konsentrasi, tenaga dalam tak akan pernah terwujud.</string>
+    <string name="cccx">2. Penguatan Daya Dorong ( KEYAKINAN/KEPERCAYAAN ). Tenaga dalam merupakan hal yang abstrak, tanpa adanya unsur kepercayaan atau keyakinan terhadap kewujudan/eksistensi dari daya tenaga dalam maka tenaga dalam juga tidak dapat dilontarkan. Semakin besar keyakinan/kepercayaan yang kita miliki, maka semakin besar tenaga dalam yang dapat kita lontarkan.</string>
+    <string name="cccy">3. Penggambaran/Pembayangan ( VISUALISASI ). Tenaga dalam merupakan tenaga murni yang bebas nilai, ia akan menemukan bentuknya sesuai dengan cipta-rasa pemiliknya. Untuk dapat melontarkan kekuatan tenaga dalam harus diciptakan suatu gambaran atau visualisasi dari sebuah bentuk aplikasi tenaga dalam. Visualisasi ini merupakan syarat utama, kerana tanpa visualisasi tenaga dalam tak akan berbentuk dan dengan sendirinya tak akan dapat dilontarkan.</string>
+    <string name="cccz">Syarat-syarat Penunjang :</string>
+    <string name="ddda">Kecuali tiga syarat utama tersebut di atas, ada beberapa syarat penunjang yang tidak semestinya dipakai namun apabila dilakukan dengan baik akan sangat membantu semua syarat utama. Bahkan beberapa aliran perguruan tenaga dalam menggunakan syarat-syarat penunjang ini sebagai hal yang prinsip/pokok dan apabila ditinggalkan besar sekali pengaruhnya terhadap kekuatan tenaga dalam yang dilontarkan. Syarat-syarat penunjang/pendukung itu ialah : Manteran/Jampi, Doa dan Kata-kata.</string>
+    <string name="dddb">1. Mantera / Jampi. Mantera atau jampi adalah rangkaian kata-kata atau kalimat ( seperti puisi ), yang apabila diucapkan atau dilafaz dengan suatu sikap/tatalaku tertentu dan diyakini akan menimbulkan suatu daya atau kekuatan.</string>
+    <string name="dddc">2. Doa. Doa adalah suatu tuntunan untuk meminta kepada Tuhan Allah. Berbeza dengan mantera, doa mempunyai sumber yang jelas yakni berasal dari tuntunan para Nabi. Kalimat-kalimat yang tersusun dalam suatu doa juga mempunyai erti yang jelas, tidak seperti mantera/jampi yang susunan mahupun erti kata atau kalimat-kalimatnya pada umumnya tidak jelas, kabur bahkan jungkir-balik.</string>
+    <string name="ddde">3. Kata-kata. Yang dimaksudkan dengan kata-kata di sini ialah ucapan-ucapan yang dilakukan secara spontan semasa seseorang melontarkan tenaga dalam. Kata-kata ini selalu menggunakan bahasa yang difahami oleh orang yang melakukannya. Misalnya, pada waktu kita melontarkan tenaga dalam kita iringi dengan mengucapkan salah satu sifat Allah ( Asma Ul Husna ) yang berbunyi " Ya Qowiyyu " = Yang Maha Kuat. Kata-kata yang kita ucapkan pada waktu melontarkan tenaga dalam juga dapat diambil dari bahasa sehari-hari tanpa harus mengikuti aturan tertentu. Yang penting kita meyakininya, dengan mengucapkan kata-kata itu tenaga dalam kita akan lebih terpusatkan.</string>
+    <string name="dddf">Dari penjelasan-penjelasan tersebut jelaslah bahawa syarat-syarat penunjang mempunyai nilai yang positif yang boleh membantu konsentrasi, keyakinan mahupun visualisasi. Syarat-syarat penunjang tersebut sifatnya subjektif dan perguruan-centris, masing-masing perguruan tenaga dalam mempunyai pelajaran dan tata cara yang berbeza-beza. Dan agar tidak mengurangi nilai "keumuman" sesi latihan ini maka ketiga syarat penunjang tersebut sengaja tidak diberikan di dalam sesi latihan ini. Walau bagaimanapun, dijamin bahawa kesahihan daripada pelajaran ilmu tenaga dalam dalam sesi latihan ini tidak di bawah mana-mana ilmu tenaga dalam yang menggunakan mantera, doa mahupun kata-kata.</string>
+    <string name="dddg">B. LATIHAN JURUS-JURUS TENAGA DALAM</string>
+    <string name="dddh">Jurus tenaga dalam adalah rangkaian gerakan yang dijalankan menurut arah, pola dan cara melangkah tertentu yang ada di dalam ilmu tenaga dalam. Gerakan-gerakan yang dirangkaikan di dalam jurus tenaga dalam tidak disiapkan untuk menghadapi hubungan/kontak langsung dengan serangan fizikal dari pihak lawan. Akan tetapi lebih ditekankan sebagai latihan guna mempersiapkan fizikal agar dapat dijadikan sebagai sarana yang baik dalam pengungkapan/pelontaran kekuatan tenaga dalam. Dengan jurus-jurus tenaga dalam, fizikal diberi latihan yang mengarah kepada terbukanya saluran tenaga dalam melalui fizikal.</string>
+    <string name="dddi">1. Jurus Satu</string>
+    <string name="dddj">Jurus Satu merupakan jurus untuk membentuk benteng atau pagar tenaga dalam. Dengan jurus ini, maka di sekeliling tubuh anda akan terbentuk suatu pancaran tenaga dalam ( aura ) yang akan melindungi diri anda dari serangan yang bersifat jahat dan destruktif/merosak. Radius tenaga dalam yang boleh ditimbulkan dengan memperagakan jurus yang pertama ini, tebal-nipisnya sangat bergantung pada keberkesanan latihan anda.</string>
+    <string name="dddk">Jurus yang pertama ini berfungsi untuk pertahanan diri ( defensif ), dilakukan dengan menggunakan TEKNIK NAFAS TAHAN. Dalam radius tertentu, lawan yang menyerang dari berbagai arah tidak akan mampu mendekati anda. Setiap kali hendak mendekat ia akan terdorong atau terpental/terpelanting ke belakang. Bahkan jika tenaga dalam yang kita miliki terlalu kuat, ia akan langsung terpelanting ke tanah dan pengsan. Perhatikan cara melatihnya pada peragaan-peragaan di bawah ini :</string>
+    <string name="dddl">Gerakan / Kiraan 1</string>
+    <string name="dddm">Berdirilah dengan tegap, kaki rapat. Tarik nafas dengan keras melalui hidung dan tahanlah di dalam dada. Bersamaan dengan itu, letakkan tangan kiri di depan dada dengan hujung-hujung jarinya menghadap ke atas, manakala tangan kanan dirapatkan/ditempelkan rapat-rapat di samping/sisi pinggang ( perhatikan gambar Gerakan 1 ). Pada saat melakukan gerakan tersebut, seluruh kekuatan harus dipusatkan pada perut, dada dan kedua belah tangan anda. Pertahankan/kekalkan posisi demikian selama 8 ( lapan saat ), kemudian keluarkan nafas dengan lembut melalui hidung.</string>
+    <string name="dddn">Gerakan / Kiraan 2</string>
+    <string name="dddo">Ambil nafas dengan keras melalui hidung dan tahanlah di dalam dada. Bersamaan dengan itu balikkan badan anda ke kanan ( seperti orang sedang kawat/berbaris ), dan buatlah gerakan seperti pada gerakan/kiraan 1. tetapi posisi tangan harus dibalik, tangan kanan diletakkan di depan dada sedangkan tangan kiri di sisi pinggang. Pertahankan posisi demikian selama 8 saat, lalu keluarkan nafas dengan perlahan-lahan melalui hidung. Formasi jurus 1 adalah membentuk gerakan empat penjuru/mata angin, dilakukan dengan 4 kali kiraan dengan gerakan dari arah kiri ke kanan. Apabila pada kiraan 1 anda menghadap ke sebelah selatan maka pada kiraan 1 anda menghadap ke sebelah barat. Pada kiraan 3 anda menghadap ke utara dan pada kiraan 4 anda menghadap ke sebelah timur. Pada kiraan 1, anda kembali menghadap ke sebelah selatan. Gerakan/kiraan 1 sama dengan gerakan kiraan 3, dan gerakan kiraan 2 sama dengan gerakan kiraan 4. Perhatikan gambar di bawah:</string>
+    <string name="dddp">Formasi gerakan se-arah dengan pusingan jam, merupakan putaran alam yang boleh menimbulkan suatu kekuatan dan tenaga.</string>
+    <string name="dddq">2. Jurus Dua</string>
+    <string name="dddr">Jurus Dua merupakan jurus dorong, jurus untuk melontarkan kekuatan tenaga dalam melalui satu tangan. Lawan yang terkena serangan jurus ini akan terpental ke belakang. Bahkan jika tenaga dalam yang kita miliki terlalu kuat dan lawan menyerang dengan emosi yang tinggi, lawan akan terdorong dengan keras dan langsung pengsan. Jurus ini dilakukan dengan TEKNIK NAFAS TOLAK, dan terdiri dari 4 gerakan atau kiraan. Perhatikan cara melakukannya pada peragaan-peragaan di bawah ini:</string>
+    <string name="ddds">Gerakan / Kiraan 1</string>
+    <string name="dddt">Berdirilah dengan tegap dan kaki rapat, seperti ketika akan mengawali jurus satu. Kemudian ambil nafas yang dalam dengan perlahan melalui hidung dan tahanlah di dalam dada. Bersamaan dengan itu, buatlah posisi kuda-kuda tengan (ongkong-ongkong) dan letakkan kedua tangan di samping pinggang. Tarik kedua tangan anda itu ke belakang bersama dengan tarikan nafas, pergelangan tangan harus menempel/rapat pada pinggang dan hujung-hujung jari menghadap ke bawah. (Perhatikan gambar di atas ). </string>
+    <string name="dddu">Gerakan / Kiraan 2</string>
+    <string name="dddv">Geser kaki kiri anda dan dorongkan telapak tangan anda ke depan. Bersamaan dengan itu, hembuskan nafas anda dengan keras melalui hidung. Pada saat melakukan gerakan dan pernafasan tersebut, anda harus menggambarkan/merasakan seolah-olah tenaga dalam anda terpancar melalui telapak tangan kiri. Catatan : Untuk menguatkan pusat getar, pada saat melakukan gerakan/kiraan 2 ini maka perut, dada dan tangan kanan harus dikeraskan. Ini boleh dibantu dengan menempelkan tangan kanan keras-keras pada perut.</string>
+    <string name="dddw">Gerakan / Kiraan 3 :</string>
+    <string name="dddx">Ambil nafas lagi perlahan-lahan dan dalam melalui hidung, bersamaan dengan itu geser kaki kanan ke depan untuk membentuk posisi seperti pada posisi kiraan 1. Perhatian :
+Pada waktu menggeser kaki ke depan, kaki harus tetap menempel pada tanah/lantai ( tidak boleh diangkat ). Geseran kaki ke depan harus dilakukan dengan gerakan silang, tidak lurus. Perhatikan skets di bawah ini : </string>
+    <string name="dddy">Langkah Silang</string>
+    <string name="dddz">Gerakan / Kiraan 4 </string>
+    <string name="eeea">Geser kaki kanan ke depan dan dorongkan telapak tangan kanan anda searah dengan langkah kaki kanan anda. Bersamaan dengan itu, hembuskan nafas anda dengan keras melalui hidung dan gambarkan/rasakan seolah-olah tenaga dalam terpancar melalui telapak tangan kanan. Tempelkan tangan kiri di depan perut dan keraskan dada, perut serta tangan seperti pada waktu melakukan gerakan kiraan 2.</string>
+    <string name="eeeb">3. Jurus Tiga</string>
+    <string name="eeec">Pada prinsipnya jurus tiga sama dengan jurus dua. Perbezaannya, jika jurus dua merupakan cara untuk melontarkan tenaga dalam melalui satu tangan maka jurus tiga menggunakan dua tangan sekaligus. Sehingga kekuatan yang boleh ditimbulkan oleh jurus tiga ini lebih besar daripada jurus yang kedua. Perhatikan cara melakukannya pada peragaan-peragaan di bawah : </string>
+    <string name="eeed">Gerakan / Kiraan 1 :</string>
+    <string name="eeef">Awali jurus tiga dengan berdiri tegap, kaki rapat dan kedua tangan lurus di samping/sisi pinggang ( sikap sempurna ). Ambil nafas perlahan-lahan dan dalam melalui hidung dan tahanlah di dalam dada. Bersamaan dengan itu, geserlah kaki ke samping untuk membuat posisi kuda-kuda tengah (ongkong-ongkong). Silangkan kedua tangan di depan dada seperti nampak pada gambar di atas. </string>
+    <string name="eeeg"> Gerakan / Kiraan 2 :</string>
+    <string name="eeeh">Langkah/geser kaki kiri ke depan dan dorongkan kedua telapak tangan searah dengan langkah anda. Bersamaan dengan itu, hembuskan nafas anda dengan keras melalui hidung dan bayangkan seolah-olah kekuatan tenaga dalam anda terpancar melalui kedua telapak tangan. Dada, perut dan kedua tangan harus dikeraskan.</string>
+    <string name="eeei">Gerakan / Kiraan 3 :</string>
+    <string name="eeej">Ambil nafas lagi dengan perlahan dan dalam melalui hidung, bersamaan dengan itu, langkahkan/geser kaki kanan ke depan untuk membentuk posisi seperti posisi pada kiraan 1. </string>
+    <string name="eeek">Gerakan / Kiraan 4 :</string>
+    <string name="eeel">Geser/langkahkan kaki kanan ke depan dan dorongkan kedua telapak tangan searah dengan langkah anda. Bersamaan dengan itu, lakukan tata cara seperti pada gerakan / kiraan yang ke-2 di atas. Jurus tiga ini diakhiri dengan sikap seperti pada waktu akan mengawali jurus.</string>
+    <string name="eeem">4. Jurus Empat</string>
+    <string name="eeen">Jurus Empat merupakan kebalikan dari jurus Tiga. Jurus ini berfungsi untuk menarik objek agar mendekat ke arah kita. Dilakukan dengan menggunakan TEKNIK NAFAS TARIK. Lawan yang terkena sedutan jurus ini, tubuhnya akan tertarik dan terhuyung-huyung ke depan ( ke arah kita ) tanpa kendali/kontrol.
+Oleh kerana jurus Empat ini bersifat menarik, maka hanya boleh digunakan apabila jarak lawan cukup jauh misalnya untuk menarik pencuri yang melarikan diri. Jurus ini tidak boleh digunakan untuk menarik lawan yang berusaha melakukan serangan, kerana ia akan tertarik ke arah kita dan kemungkinan serangannya akan mengenai diri kita. Apalagi jika lawan membawa senjata tajam. Jurus ni juga boleh digunakan untuk menyedut kekuatan musuh yang emosi, misalnya dalam suatu perkelahian tinju biasa ( tanpa tenaga dalam ). Perhatikan cara melakukannya pada peragaan-peragaan di bawah:</string>
+    <string name="eeeo">Gerakan / Kiraan 1 :</string>
+    <string name="eeep">Gerakan / Kiraan 1 jurus Empat ini sama dengan gerakan/kiraan 1 jurus tiga. Tetapi tidak dilakukan dengan mengambil nafas, melainkan cukup dengan pernafasan biasa. </string>
+    <string name="eeeq">Gerakan / Kiraan 2 :</string>
+    <string name="eeer">Langkah / geserlah kaki kiri ke belakang. Tarik kedua siku anda ke belakang dengan hujung-hujung jari tangan menghadap ke bawah dan pergelangan tangan menempel di samping/sisi pinggang. Bersamaan dengan itu, tariklah nafas dengan keras melalui hidung dan tahanlah di dalam dada. Pada saat menarik nafas, gambarkan/rasakan seolah-olah anda menarik benda yang berat serta keraskan otot-otot tangan, dada dan perut.</string>
+    <string name="eees">Gerakan / Kiraan 3 :</string>
+    <string name="eeet">Hembuskan nafas dengan perlahan/lembut melalui hidung dan geser kaki kanan anda ke belakang untuk membentuk sikap seperti pada gerakan / kiraan 1.</string>
+    <string name="eeeu">Gerakan / Kiraan 4 :</string>
+    <string name="eeev">Geserlah kaki kanan anda ke belakang dan lakukanlah tata cara seperti pada waktu anda melakukan gerakan/kiraan 2. Setelah anda melakukan gerakan/kiraan 4, kembalilah ke gerakan/kiraan 1,2,3 dan seterusnya. Untuk mengakhiri jurus empat ini anda harus kembali ke sikap sempurna seperti pada waktu mengawali jurus.
+</string>
+    <string name="eeew">5. Jurus Lima</string>
+    <string name="eeex">Jurus Lima adalah jurus tarik sekaligus sebagai jurus kuncian. Jurus ini terutamanya dimaksudkan untuk menghadapi pengeroyokan. Musuh yang terkena serangan jurus ini badannya akan bergerak terhuyung-huyung tanpa kendali, kemudian mengumpul menjadi satu dan terkunci. Jurus ini dilakukan dengan menggunakan TEKNIK NAFAS TARIK. Perhatikan cara melakukannya pada peragaan-peragaan di bawah ini :</string>
+    <string name="eeey">Awali jurus dengan sikap sempurna ( = berdiri tetap, kaki rapat dan kedua tangan lurus di samping/sisi pinggang). Pada kiraan 1, geser kaki kiri ke samping kiri dan buatlah sikap kuda-kuda tengah (ongkong-ongkong). Tempatkan kedua tangan seperti nampak pada peragaan di atas. </string>
+    <string name="eeez">Gerakan / Kiraan 2 :</string>
+    <string name="fffa">Angkat kedua tangan anda perlahan-lahan ke atas, bayangkan / rasakan seolah-olah anda mengangkat benda yang sangat berat. Iringi gerakan itu dengan menarik nafas kuat-kuat melalui hidung dan mengeraskan otot-otot tangan, dada serta perut. Pada akhir sedutan nafas, kedua telapak tangan harus disatukan di atas kepala. Sementara nafas harus ditahan di dalam dada.</string>
+    <string name="fffb">Dengan tetap menahan nafas, turunkan tangan anda ( kedua telapak tangan tetap saling menempel/dirapatkan ) dan tariklah siku tangan kiri di samping tubuh sebelah kiri. Pusatkan seluruh kekuatan pada kedua telapak tangan. </string>
+    <string name="fffc">Dengan tetap menahan nafas, baliklah telapak tangan anda (telapak tangan kiri di atas telapak tangan kanan, tetap saling menempel ). Gerakkan kedua telapak tangan ke depan perut, keraskan otot perut dan pusatkan seluruh kekuatan pada kedua telapak tangan.</string>
+    <string name="fffd">Lakukan gerakan seperti pada gerakan / kiraan 4. Akan tetapi posisi telapak tangan harus dibalik, telapak tangan kanan di atas telapak tangan yang kiri. Jurus Lima ini diakhiri dengan kembali ke sikap sempurna seperti pada waktu akan mengawali jurus.</string>
+    <string name="fffe">Lakukan gerakan dan tata cara seperti pada gerakan dan tata cara kiraan 2.</string>
+    <string name="fffh">6. Jurus Enam</string>
+    <string name="fffi">Jurus Enam adalah jurus buka. Berfungsi untuk membuka kuncian jurus lima. Jurus ini juga dapat digunakan untuk membuka pagaran tenaga dalam yang dibuat oleh orang lain. Teknik pernafasan yang digunakan untuk melakukan jurus ini ialah TEKNIK NAFAS TOLAK. Perhatikan cara melakukannya pada peragaan-peragaan berikut ini :</string>
+
+    <string name="fffj">Awali jurus Enam dengan sikap sempurna. Kemudian pada kiraan 1, geserlah kaki kiri ke samping kiri untuk membuat sikap kuda-kuda tengah (ongkong-ongkong). Bersamaan dengan itu, satukan telapak tangan anda di depan perut dan tariklah nafas dengan perlahan-lahan dan dalam melalui hidung lalu tahanlah di dalam dada. </string>
+    <string name="fffk">Langkahkan kaki kiri ke depan dan sibakkan kedua tangan anda ke samping. Gerakan itu harus anda lakukan bersama-sama dengan menghentakkan nafas dengan keras/kuat melalui hidung. Dan juga harus disertai dengan membayangkan/merasakan adanya aliran tenaga yang mengalir dan terpancar melalui "pedang" tangan ( = sisi telapak tangan ).</string>
+    <string name="fffl">Geser/langkahkan kaki kanan ke depan untuk membentuk sikap seperti pada kiraan 1, dengan posisi telapak tangan di balik (telapak tangan kiri di atas telapak tangan kanan ). </string>
+    <string name="fffm">Langkahkan/geser kaki kanan ke depan, lakukan gerakan serta tata cara seperti pada kiraan 2. Jurus ini dapat dijalankan terus ke depan dengan gerakan/kiraan 1 sampai dengan 4 seperti tersebut di atas. Untuk mengakhiri jurus ini, anda harus kembali membentuk sikap sempurna ( = berdiri tegap, kaki rapat dan kedua tangan lurus di samping pinggang ).
+</string>
+    <string name="fffn">Enam jurus tenaga dalam yang telah diberikan dalam Tahap ini merupakan jurus-jurus dasar yang harus dikuasai oleh sesiapa sahaja yang mempelajari ilmu tenaga dalam di tingkat permulaan. Oleh kerana jurus tenaga dalam itu merupakan perangkat atau sarana untuk menyalurkan / melontarkan kekuatan tenaga dalam, maka harus dilatih secara rutin dan terus menerus. Jurus-jurus tersebut tidak cukup dengan hanya dihafal dan difahami pengertiannya, melainkan harus dilatih sehingga sama ada gerakan mahupun tata nafasnya menjadi suatu yang automatik.
+</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+
+    <string name="fffo">Pencak silat merupakan salah satu jenis kesenian dan juga olahraga yaitu seni bela diri yang berasal dari Asia Tenggara di antaranya Malaysia, Brunei, Singapura, Filipina, Thailand, dan juga Indonesia Negara kita. Pencak silat ini merupakan tradisi kesenian yang di sebar melalui tradisi Melayu Nusantara. Hingga seiring berjalannya waktu, jenis kesenian bela diri ini juga mulai tersebar ke Negara Vietnam yang disebarkan oleh orang Indonesia. Hingga kini Negara Vietnam melahirkan pesilat-pesilat yang tangguh dan mendirikan organisasi induk pencak silat di Negara Indonesia yang diberi nama Ikatan Pencak Silat Indonesia (IPSI).</string>
+    <string name="fffp">Pencak silat telah tersebar ke seluruh kepulauan Nusantara sejak abad ke-7 Masehi. Namun, sampai sekarang belum ada yang bisa memastikan kapan dan bagaimana asal mula tersebar pencak silat ini. Ada yang mengatakan kalau pencak silat ini tersebar karena adanya keterampilan dari berbagai suku asli di Indonesia. Keterampilan-keterampilan tersebut di antaranya seperti berperang yang menggunakan parang, perisai, dan juga tombak. Contohnya seperti tradisi dan adat di kepulauan Nias yang mana terdapat suku yang bernama suku Nias telah menyebarkan seni bela dirinya sesuai adatnya yaitu dengan menggunakan senjata parang. Yang dipercaya bahwa hingga abad ke-20, suku Nias tidak tersentuh sama sekali oleh budaya luar</string>
+    <string name="fffq">Karena pencak silat mulai berkembang seiring berjalannya waktu, maka mulai terbentuklah berbagai organisasi pencak silat yang di antaranya:</string>
+    <string name="fffr">- PERSILAT (Persekutuan Pencak Silat Antara Bangsa)</string>
+    <string name="fffs">Asas PERSILAT adalah persaudaraan, kekeluargaan, persatuan dan menghormati satu sama lain serta tidak membeda-bedakan kebangsaan dan agama. PERSILAT adalah organisasi non-politik</string>
+
+    <string name="ffft">FP2STI merupakan suatu wadah silahturahmi orang-orang yang berempati terhadap perkembangan Silat Tradisi. FP2ST suatu wadah informal yang tidak berafiliasi dengan organisasi manapun, dan bersifat cair (mewadahi semua golongan).
+</string>
+    <string name="fffu">Ikatan Pencak Silat Indonesia (disingkat IPSI) adalah induk organisasi resmi pencak silat di Indonesia di bawah naungan KONI (Komite Olahraga Nasional Indonesia). Pencak silat merupakan olahraga seni beladiri yang berasal dari bangsa Melayu, termasuk Indonesia. Jumlah perguruan pencak silat sangat banyak, berdasarkan catatan PB IPSI sampai dengan tahun 1993 telah mencapai 840 perguruan pencak silat di Indonesia. Induk organisasi pencak silat di Indonesia adalah IPSI (Ikatan Pencak Silat Indonesia). IPSI didirikan pada tanggal 18 Mei 1948 di Surakarta, Jawa Tengah.</string>
+    <string name="fffv">PERSILAT dikelola secara kolektif oleh sebuah Presidium yang terdiri dari 69 anggota. Eddie M. Nalapraya ditetapkan sebagai Ketua Presidium. Tugas Presidium adalah antara lain menyelenggarakan Kongres PERSILAT. Kongres yang pertama diselenggarakan oleh Presidium pada tahun 1983 di Kuala Lumpur. Asas PERSILAT adalah persaudaraan, kekeluargaan, persatuan dan menghormati satu sama lain serta tidak membeda-bedakan kebangsaan dan agama. PERSILAT adalah organisasi non-politik.
+</string>
+    <string name="fffw">Persekutuan Silat Kebangsaan Malaysia (PESAKA) didirikan pada 24 September 1983, dalam usaha mewujudkan satu organisasi Persilatan di Malaysia pada saat itu terdapat 4 Pertubuhan Peringkat Malaysia yaitu: Seni Silat Lincah Malaysia, Silat Seni Gayong Malaysia, Seni Gayung Fatani Malaysia dan Seni Silat Cekak Malaysia beserta 16 buah PESAKA Negeri (Perlis, Kedah, Pulau Pinang, Perak, Selangor, Kuala Lumpur, Negeri Sembilan, Melaka, Johor, Pahang, Terengganu, Kelantan, Sarawak, Sabah, Labuan dan Putrajaya) yang bergabung. Kini dianggarkan seramai 4 juta ahli-ahli silat di seluruh Malaysia.</string>
+    <string name="fffx">Singapore Silat Federation adalah salah satu anggota pendiri untuk PERSILAT, dan salah satu negara yang terlibat secara langsung dan aktif untuk memastikan olahraga berhasil terorganisir dengan baik di seluruh dunia.</string>
+    <string name="fffy">European Pencak Silat Federation (EPSF) adalah badan resmi untuk Pencak Silat di Eropa dan merupakan perwakilan PERSILAT (Persekutuan Pencak Silat Antarabangsa), badan dunia untuk Pencak Silat yang berbasis di Jakarta, Indonesia.</string>
+    <string name="fffz">Pencak silat diperkirakan menyebar di Kepulauan Nusantara pada abad ke-7 Masehi. Saat ini, pencak silat telah diakui sebagai budaya suku Melayu, yaitu para penduduk daerah pesisir Pulau Sumatra dan Semenanjung Malaka, serta kelompok etnik lainnya yang menggunakan lingua franca bahasa Melayu.
+</string>
+    <string name="ggga">Di berbagai daerah di pulau-pulau Jawa, Bali, Kalimantan, dan Sulawesi, telah mengembangkan silat tradisional</string>
+    <string name="gggb">Penyebaran agama Islam pada abad ke-14 di Nusantara telah diajarkan bersamaan dengan silat. Silat berkembang dari ilmu beladiri dan seni tari rakyat yang menjadi bagian dari latihan spiritual.</string>
+    <string name="gggc">Selanjutnya, perkembangan silat didorong oleh para ahli beladiri dari keraton serta para pendekar silat lainnya, yang legenda kehebatan ilmunya banyak tersebar di seantero wilayah nusantara. Sebagai contoh, bangsa Melayu terutama di Semenanjung Malaka meyakini legenda bahwa Hang Tuah dari abad ke-14 merupakan pendekar silat yang terhebat</string>
+    <string name="gggd"></string>
+
+
+</resources>
+
